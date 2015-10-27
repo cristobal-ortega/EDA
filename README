@@ -1,0 +1,26 @@
+EDA - Data structures and algorithms  
+==
+
+FIB - Informatics Engineering
+
+----
+Jutge directory:  
+Programs coded to pass some challenging problems in algorithms, data structures, backtracking...  
+
+
+----
+Battle Royale Game:  
+
+Dependencies:  
+build-essential libqt4-dev  
+
+How to run:  
+qmake (find for new AI*.cc files)  
+make  
+./Requiem player1 player2 player3 player4  
+
+./Requiem shows all the players and Usage()  
+
+Players:  
+ForTheHorde: Defend until some turn and then attack  
+Demo: Random movement  
